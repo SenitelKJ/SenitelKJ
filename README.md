@@ -1,1 +1,1 @@
-![Github Banner](https://github.com/SenitelKJ/SenitelKJ/assets/24694609/53f78633-129f-49b1-8601-814b7e4cebd2)
+![Github Banner](https://github.com/user-attachments/assets/e68260f3-65ac-4eb6-a8b6-a0a8bd1c242c)
