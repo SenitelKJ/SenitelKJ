@@ -47,6 +47,10 @@ Hi There! This repository showcases a selection of projects I've developed, demo
 ### Codebreaker: Puzzle Game
 
 > A classic "guess the code" puzzle game where the player attempts to break a randomly generated four-digit code. The player is given four attempts to guess the code and win the game! This project is a full-stack web application exercise designed to generate puzzles and retain statistics. It was refactored to be entirely JavaScript for static hosting purposes, with game statistics recorded in browser local storage.
+> 
+<br></br>
+![Codebreaker](https://github.com/user-attachments/assets/1eaa353e-eb5a-4355-abaa-24a9eea82fd7)
+<br></br>
 
 **Technologies Used:**
 * `Javascript`
