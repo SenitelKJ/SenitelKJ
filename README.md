@@ -2,7 +2,7 @@
 
 
 <br><br>
-Hi There! This repository showcases a selection of projects I've developed, demonstrating my skills in **full stack development**, and **artificial intelligence**, and my on-going learning process.
+Hi There! This repository showcases a selection of projects I've developed, demonstrating my skills in **full stack development**, **artificial intelligence**, and my on-going learning process.
 
 <br></br>
 
