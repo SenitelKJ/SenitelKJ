@@ -7,7 +7,7 @@ Hi There! This repository showcases a selection of projects I've developed, demo
 <br></br>
 
 ## Perth Beaches
-> Perth Beaches provides a live web dashboard for monitoring weather conditions, water statistics, and foot-traffic for various beaches around Perth, Western Australia. It's a full-stack application composed of a web scraper, a Flask backend API, a PostgreSQL database, a Next.js frontend, and hosted on AWS Lightsail. 
+> Perth Beaches provides a live web dashboard for monitoring weather conditions and foot-traffic for various beaches around Perth, Western Australia. It's a full-stack application composed of a web scraper, a Flask backend API, a PostgreSQL database, a Next.js frontend, and hosted on AWS Lightsail. 
 
 <br></br>
 ![Dashboard-SS-3 - Copy](https://github.com/user-attachments/assets/7d95897e-490b-401a-8459-636e8f2cec17)
