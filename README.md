@@ -1,7 +1,6 @@
-![Github Banner](https://github.com/user-attachments/assets/8c1e5fcd-1c90-4e38-b9aa-0aa0255ac2ab)
-
-
+![ChatGPT Image Jun 24, 2025, 12_06_36 AM](https://github.com/user-attachments/assets/c7a2c7b8-bb1d-4d25-828c-3fb52be7488b)
 <br><br>
+
 Hi There! This repository showcases a selection of projects I've developed, demonstrating my skills in **full stack development**, **artificial intelligence**, and my on-going learning process.
 
 <br></br>
