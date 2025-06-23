@@ -1,6 +1,4 @@
-<h1 align="center" style="font-size: 2.5em; font-weight: bold; background: linear-gradient(#ff8904); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 0.5em;">Korn Juangbhanich</h1>
-<h3 align="center" style="font-size: 1.5em; font-weight: bold; background: linear-gradient(#ff8904); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Graduate Software Engineer</h3>
-
+![Github Banner](https://github.com/user-attachments/assets/8c1e5fcd-1c90-4e38-b9aa-0aa0255ac2ab)
 
 
 <br><br>
@@ -13,9 +11,9 @@ Hi There! This repository showcases a selection of projects I've developed, demo
 
 > Perth Beaches provides a live web dashboard for monitoring weather conditions, water statistics, and foot-traffic for various beaches around Perth, Western Australia. It's a full-stack application composed of a web scraper, a Flask backend API, a PostgreSQL database, a Next.js frontend, and hosted on AWS Lightsail. 
 
-
-
-
+<br></br>
+![Dashboard-SS-3 - Copy](https://github.com/user-attachments/assets/7d95897e-490b-401a-8459-636e8f2cec17)
+<br></br>
 
 #### 🌴 Tech Used
 
