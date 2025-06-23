@@ -57,11 +57,15 @@ Hi There! This repository showcases a selection of projects I've developed, demo
 
 <br></br>
 
-## Playing Super Mario Bros. with AI
+## AI Agents: Playing Super Mario Bros. with AI
 
 > This project involves the implementation of a Rule-Based Agent and a Reinforcement-Learning Agent (PPO) to play Super Mario Bros., along with a comparison of their performances. It utilizes object detection to determine rule-based actions and incorporates StableBaseline3's PPO Algorithm and CNN Policy for reinforcement learning.
 >
 > **Based Upon:** Christian Kauten's OpenAI Gym Environment for Super Mario Bros.
+
+<br></br>
+![284044051-fb79f531-361a-450b-adcb-a1e906e7f34b](https://github.com/user-attachments/assets/6065898d-962d-4c86-b232-77a0e0e0cc0d)
+<br></br>
 
 **Technologies Used:**
 * `Python`
