@@ -6,9 +6,7 @@ Hi There! This repository showcases a selection of projects I've developed, demo
 
 <br></br>
 
-## My Projects
-### Perth Beaches
-
+## Perth Beaches
 > Perth Beaches provides a live web dashboard for monitoring weather conditions, water statistics, and foot-traffic for various beaches around Perth, Western Australia. It's a full-stack application composed of a web scraper, a Flask backend API, a PostgreSQL database, a Next.js frontend, and hosted on AWS Lightsail. 
 
 <br></br>
@@ -41,10 +39,9 @@ Hi There! This repository showcases a selection of projects I've developed, demo
 * `Docker Compose`
 
 <br></br>
----
 
 
-### Codebreaker: Puzzle Game
+## Codebreaker: Puzzle Game
 
 > A classic "guess the code" puzzle game where the player attempts to break a randomly generated four-digit code. The player is given four attempts to guess the code and win the game! This project is a full-stack web application exercise designed to generate puzzles and retain statistics. It was refactored to be entirely JavaScript for static hosting purposes, with game statistics recorded in browser local storage.
 > 
@@ -59,9 +56,8 @@ Hi There! This repository showcases a selection of projects I've developed, demo
 * `Vercel`
 
 <br></br>
----
 
-### Playing Super Mario Bros. with AI
+## Playing Super Mario Bros. with AI
 
 > This project involves the implementation of a Rule-Based Agent and a Reinforcement-Learning Agent (PPO) to play Super Mario Bros., along with a comparison of their performances. It utilizes object detection to determine rule-based actions and incorporates StableBaseline3's PPO Algorithm and CNN Policy for reinforcement learning.
 >
@@ -73,9 +69,8 @@ Hi There! This repository showcases a selection of projects I've developed, demo
 * `OpenAI Gym`
 
 <br></br>
----
 
-### Mine Site Logistics: Parts Advisor
+## Mine Site Logistics: Parts Advisor
 
 > A web-deployed database of maintenance materials used on specific mine sites. This application is designed to be used on mobile devices to aid contractors in identifying parts on the job, utilizing site-specific material numbers.
 
