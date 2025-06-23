@@ -47,7 +47,10 @@ Hi There! This repository showcases a selection of projects I've developed, demo
 > 
 <br></br>
 ![Codebreaker](https://github.com/user-attachments/assets/1eaa353e-eb5a-4355-abaa-24a9eea82fd7)
+![image (4)](https://github.com/user-attachments/assets/37f7ee30-7245-401b-a47e-bf97692ede0e)
+
 <br></br>
+
 
 **Technologies Used:**
 * `Javascript`
