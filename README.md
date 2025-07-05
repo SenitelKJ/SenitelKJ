@@ -6,18 +6,17 @@ Hi There! This repository showcases a selection of projects I've developed, demo
 
 <br></br>
 
-# 🌅 "Perth Beaches"
+# 🌅 Perth Beaches
 
 A web dashboard helping Perth beach-goers make informed decisions. Routinely monitors weather conditions and foot-traffic for various beaches around Perth. Weather data is scraped from the Bureau of Meteorology; Foot-traffic data is scraped from Google Maps of establishments in the vicinity of the target area. Hosted on AWS Lightsail, the dashboard is updated every 5 mins.
 
 <br></br>
 ![Dashboard-SS-3 - Copy](https://github.com/user-attachments/assets/7d95897e-490b-401a-8459-636e8f2cec17)
-<br></br>
 
-#### Applied Skills:
+##### Applied Skills:
 
 **Frontend:**
-* `Next.js` (React.js)
+* `Next.js (React.js)`
 * `TypeScript`
 * `Tailwind CSS`
 
@@ -45,9 +44,9 @@ A web dashboard helping Perth beach-goers make informed decisions. Routinely mon
 Developed for the Logistics team at Newmont’s Boddington Goldmine: The tool utilises SAP Scripting to batch process work order reports from the maintenance teams, reducing processing times from 15 mins to 1 min, and instances of human error by 99%.
 
 <br></br>
-
-
+![Screenshot 2025-06-29 163608](https://github.com/user-attachments/assets/9e9a97a6-7de1-48cb-bc7a-185910b8f516)
 <br></br>
+![Screenshot 2025-06-29 163836](https://github.com/user-attachments/assets/d7ef3634-20f4-4de2-94d5-bbbc1b8efa6f)
 
 #### Applied Skills:
 * `Claude Code`
@@ -66,9 +65,6 @@ A classic mobile-friendly "guess the code" puzzle game, where the player attempt
 ![Codebreaker](https://github.com/user-attachments/assets/1eaa353e-eb5a-4355-abaa-24a9eea82fd7)
 ![image (4)](https://github.com/user-attachments/assets/37f7ee30-7245-401b-a47e-bf97692ede0e)
 
-<br></br>
-
-
 #### Applied Skills:
 * `Javascript`
 * `Python` 
@@ -82,10 +78,8 @@ A classic mobile-friendly "guess the code" puzzle game, where the player attempt
 
 Trained a Reinforcement Learning (PPO) agent to play Super Mario Bros., comparing its performance against a Rule-Based Agent. It utilizes reinforcement learning algorithms vs. object detection to determine rule-based actions.
 
-
 <br></br>
 ![284044051-fb79f531-361a-450b-adcb-a1e906e7f34b](https://github.com/user-attachments/assets/6065898d-962d-4c86-b232-77a0e0e0cc0d)
-<br></br>
 
 #### Applied Skills:
 * `Python`
