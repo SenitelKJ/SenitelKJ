@@ -13,7 +13,7 @@ A web dashboard helping Perth beach-goers make informed decisions. Routinely mon
 <br></br>
 ![Dashboard-SS-3 - Copy](https://github.com/user-attachments/assets/7d95897e-490b-401a-8459-636e8f2cec17)
 
-##### Applied Skills:
+#### Applied Skills:
 
 **Frontend:**
 * `Next.js (React.js)`
