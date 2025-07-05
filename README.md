@@ -7,7 +7,8 @@ Hi There! This repository showcases a selection of projects I've developed, demo
 <br></br>
 
 ## Perth Beaches
-> Perth Beaches provides a live web dashboard for monitoring weather conditions and foot-traffic for various beaches around Perth, Western Australia. It's a full-stack application composed of a web scraper, a Flask backend API, a PostgreSQL database, a Next.js frontend, and hosted on AWS Lightsail. 
+
+A web dashboard helping Perth beach-goers make informed decisions. Routinely monitors weather conditions and foot-traffic for various beaches around Perth. Weather data is scraped from the Bureau of Meteorology; Foot-traffic data is scraped from Google Maps of establishments in the vicinity of the target area. Hosted on AWS Lightsail, the dashboard is updated every 5 mins.
 
 <br></br>
 ![Dashboard-SS-3 - Copy](https://github.com/user-attachments/assets/7d95897e-490b-401a-8459-636e8f2cec17)
@@ -33,7 +34,7 @@ Hi There! This repository showcases a selection of projects I've developed, demo
 **Containerization:**
 * `Docker Compose`
 
-* **Cloud Services:**
+**Cloud Services:**
 * `AWS Lightsail`
 
 
@@ -42,8 +43,8 @@ Hi There! This repository showcases a selection of projects I've developed, demo
 
 ## Codebreaker: Puzzle Game
 
-> A classic mobile-friendly "guess the code" puzzle game, where the player attempts to break a randomly generated four-digit code - with new puzzles generated daily! Player stats are stored with SQLite and cookies. 
-> 
+A classic mobile-friendly "guess the code" puzzle game, where the player attempts to break a randomly generated four-digit code - with new puzzles generated daily! Player stats are stored with SQLite and cookies. 
+
 <br></br>
 ![Codebreaker](https://github.com/user-attachments/assets/1eaa353e-eb5a-4355-abaa-24a9eea82fd7)
 ![image (4)](https://github.com/user-attachments/assets/37f7ee30-7245-401b-a47e-bf97692ede0e)
@@ -61,8 +62,8 @@ Hi There! This repository showcases a selection of projects I've developed, demo
 
 ## AI Agents: Playing Super Mario Bros. with AI
 
-> Trained a Reinforcement Learning (PPO) agent to play Super Mario Bros., comparing its performance against a Rule-Based Agent. It utilizes reinforcement learning algorithms vs. object detection to determine rule-based actions.
->
+Trained a Reinforcement Learning (PPO) agent to play Super Mario Bros., comparing its performance against a Rule-Based Agent. It utilizes reinforcement learning algorithms vs. object detection to determine rule-based actions.
+
 
 <br></br>
 ![284044051-fb79f531-361a-450b-adcb-a1e906e7f34b](https://github.com/user-attachments/assets/6065898d-962d-4c86-b232-77a0e0e0cc0d)
@@ -74,12 +75,3 @@ Hi There! This repository showcases a selection of projects I've developed, demo
 * `OpenAI Gym`
 
 <br></br>
-
-## Mine Site Logistics: Parts Advisor
-
-> A web-deployed database of maintenance materials used on specific mine sites. This application is designed to be used on mobile devices to aid contractors in identifying parts on the job, utilizing site-specific material numbers.
-
-**Technologies Used:**
-* `React`
-* `Typescript`
-* `Vercel`
