@@ -2,11 +2,16 @@
 <br><br>
 
 
-Hi there! This repository showcases a selection of projects I've developed, demonstrating my skills in **full stack development**, **artificial intelligence**, and my on-going learning process.
+<h4 align="center" style="font-size: 1.5em; background: linear-gradient(to top, #00a6f4, #51a2ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Hi there! This repository showcases a selection of projects I've developed, demonstrating my skills in full stack development, artificial intelligence, and my on-going learning process.
+</h4>
 
 <br></br>
+<br></br>
+<br></br>
 
-# 🌅 Perth Beaches
+
+<h1 align="center" style="font-size: 3.5em; font-weight: bold; background: linear-gradient(to top, #00a6f4, #51a2ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 0.5em;"> Perth Beaches </h1>
+<h3 align="center" style="font-size: 1.5em; background: linear-gradient(to top, #00a6f4, #51a2ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Live Conditions, Perfect Days</h3>
 
 A web dashboard helping Perth beach-goers make informed decisions. Routinely monitors weather conditions and foot-traffic for various beaches around Perth. Weather data is scraped from the Bureau of Meteorology; Foot-traffic data is scraped from Google Maps of establishments in the vicinity of the target area. Hosted on AWS Lightsail, the dashboard is updated every 5 mins.
 
@@ -39,7 +44,7 @@ A web dashboard helping Perth beach-goers make informed decisions. Routinely mon
 
 <br></br>
 
-## 🛠️ SAP Automation Tool
+<h1 align="center" style="font-size: 3.5em; font-weight: bold; background: linear-gradient(to top, #00a6f4, #51a2ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 0.5em;"> 🛠️  SAP Automation Tool </h1>
 
 Developed for the Logistics team at Newmont’s Boddington Goldmine: The tool utilises SAP Scripting to batch process work order reports from the maintenance teams, reducing processing times from 15 mins to 1 min, and instances of human error by 99%.
 
@@ -57,7 +62,9 @@ Developed for the Logistics team at Newmont’s Boddington Goldmine: The tool ut
 
 <br></br>
 
-## 🕹️ Codebreaker: Puzzle Game
+<h1 align="center" style="font-size: 3.5em; font-weight: bold; background: linear-gradient(to top, #00a6f4, #51a2ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 0.5em;"> 🕹️  Codebreaker: Puzzle Game
+</h1>
+
 
 A classic mobile-friendly "guess the code" puzzle game, where the player attempts to break a randomly generated four-digit code - with new puzzles generated daily! Player stats are stored with SQLite and cookies. 
 
@@ -74,7 +81,10 @@ A classic mobile-friendly "guess the code" puzzle game, where the player attempt
 
 <br></br>
 
-## 🍄 Playing Super Mario Bros. with AI
+
+
+<h1 align="center" style="font-size: 3.5em; font-weight: bold; background: linear-gradient(to top, #00a6f4, #51a2ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 0.5em;"> 🍄 Playing Super Mario Bros. with AI
+</h1>
 
 Trained a Reinforcement Learning (PPO) agent to play Super Mario Bros., comparing its performance against a Rule-Based Agent. It utilizes reinforcement learning algorithms vs. object detection to determine rule-based actions.
 
