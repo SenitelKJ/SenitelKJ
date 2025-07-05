@@ -6,7 +6,7 @@ Hi There! This repository showcases a selection of projects I've developed, demo
 
 <br></br>
 
-# 🌅  Perth Beaches
+# 🌅 "Perth Beaches"
 
 A web dashboard helping Perth beach-goers make informed decisions. Routinely monitors weather conditions and foot-traffic for various beaches around Perth. Weather data is scraped from the Bureau of Meteorology; Foot-traffic data is scraped from Google Maps of establishments in the vicinity of the target area. Hosted on AWS Lightsail, the dashboard is updated every 5 mins.
 
@@ -40,8 +40,25 @@ A web dashboard helping Perth beach-goers make informed decisions. Routinely mon
 
 <br></br>
 
+## 🛠️ "SAP Automation Tool"
 
-## 🕹️  Codebreaker: Puzzle Game
+Developed for the Logistics team at Newmont’s Boddington Goldmine: The tool utilises SAP Scripting to batch process work order reports from the maintenance teams, reducing processing times from 15 mins to 1 min, and instances of human error by 99%.
+
+<br></br>
+
+
+<br></br>
+
+#### Applied Skills:
+* `Claude Code`
+* `Python`
+* `Powershell` 
+* `SAP GUI Scripting`
+
+
+<br></br>
+
+## 🕹️ "Codebreaker: Puzzle Game"
 
 A classic mobile-friendly "guess the code" puzzle game, where the player attempts to break a randomly generated four-digit code - with new puzzles generated daily! Player stats are stored with SQLite and cookies. 
 
@@ -61,7 +78,7 @@ A classic mobile-friendly "guess the code" puzzle game, where the player attempt
 
 <br></br>
 
-## 🍄  AI Agents: Playing Super Mario Bros. with AI
+## 🍄 ”Playing Super Mario Bros. with AI”
 
 Trained a Reinforcement Learning (PPO) agent to play Super Mario Bros., comparing its performance against a Rule-Based Agent. It utilizes reinforcement learning algorithms vs. object detection to determine rule-based actions.
 
