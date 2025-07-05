@@ -54,6 +54,7 @@ A classic mobile-friendly "guess the code" puzzle game, where the player attempt
 
 #### Applied Skills:
 * `Javascript`
+* `Python` 
 * `Flask`
 * `SQLite`
 * `Vercel`
