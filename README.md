@@ -6,7 +6,7 @@ Hi There! This repository showcases a selection of projects I've developed, demo
 
 <br></br>
 
-## 🌅  Perth Beaches
+# 🌅  Perth Beaches
 
 A web dashboard helping Perth beach-goers make informed decisions. Routinely monitors weather conditions and foot-traffic for various beaches around Perth. Weather data is scraped from the Bureau of Meteorology; Foot-traffic data is scraped from Google Maps of establishments in the vicinity of the target area. Hosted on AWS Lightsail, the dashboard is updated every 5 mins.
 
@@ -14,7 +14,7 @@ A web dashboard helping Perth beach-goers make informed decisions. Routinely mon
 ![Dashboard-SS-3 - Copy](https://github.com/user-attachments/assets/7d95897e-490b-401a-8459-636e8f2cec17)
 <br></br>
 
-#### 🔧 Applied Skills:
+#### Applied Skills:
 
 **Frontend:**
 * `Next.js` (React.js)
@@ -52,7 +52,7 @@ A classic mobile-friendly "guess the code" puzzle game, where the player attempt
 <br></br>
 
 
-**🔧 Skills Applied:**
+#### Applied Skills:
 * `Javascript`
 * `Flask`
 * `SQLite`
@@ -69,7 +69,7 @@ Trained a Reinforcement Learning (PPO) agent to play Super Mario Bros., comparin
 ![284044051-fb79f531-361a-450b-adcb-a1e906e7f34b](https://github.com/user-attachments/assets/6065898d-962d-4c86-b232-77a0e0e0cc0d)
 <br></br>
 
-**🔧 Skills Applied:**
+#### Applied Skills:
 * `Python`
 * `Stable Baseline3`
 * `OpenAI Gym`
