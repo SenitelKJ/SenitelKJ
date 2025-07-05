@@ -6,7 +6,7 @@ Hi There! This repository showcases a selection of projects I've developed, demo
 
 <br></br>
 
-## 🌅 Perth Beaches
+## 🌅  Perth Beaches
 
 A web dashboard helping Perth beach-goers make informed decisions. Routinely monitors weather conditions and foot-traffic for various beaches around Perth. Weather data is scraped from the Bureau of Meteorology; Foot-traffic data is scraped from Google Maps of establishments in the vicinity of the target area. Hosted on AWS Lightsail, the dashboard is updated every 5 mins.
 
@@ -41,7 +41,7 @@ A web dashboard helping Perth beach-goers make informed decisions. Routinely mon
 <br></br>
 
 
-## 🕹️ Codebreaker: Puzzle Game
+## 🕹️  Codebreaker: Puzzle Game
 
 A classic mobile-friendly "guess the code" puzzle game, where the player attempts to break a randomly generated four-digit code - with new puzzles generated daily! Player stats are stored with SQLite and cookies. 
 
@@ -52,7 +52,7 @@ A classic mobile-friendly "guess the code" puzzle game, where the player attempt
 <br></br>
 
 
-** 🔧 Skills Applied:**
+**🔧 Skills Applied:**
 * `Javascript`
 * `Flask`
 * `SQLite`
@@ -60,7 +60,7 @@ A classic mobile-friendly "guess the code" puzzle game, where the player attempt
 
 <br></br>
 
-## 🍄 AI Agents: Playing Super Mario Bros. with AI
+## 🍄  AI Agents: Playing Super Mario Bros. with AI
 
 Trained a Reinforcement Learning (PPO) agent to play Super Mario Bros., comparing its performance against a Rule-Based Agent. It utilizes reinforcement learning algorithms vs. object detection to determine rule-based actions.
 
@@ -69,7 +69,7 @@ Trained a Reinforcement Learning (PPO) agent to play Super Mario Bros., comparin
 ![284044051-fb79f531-361a-450b-adcb-a1e906e7f34b](https://github.com/user-attachments/assets/6065898d-962d-4c86-b232-77a0e0e0cc0d)
 <br></br>
 
-** 🔧 Skills Applied:**
+**🔧 Skills Applied:**
 * `Python`
 * `Stable Baseline3`
 * `OpenAI Gym`
