@@ -39,7 +39,7 @@ A web dashboard helping Perth beach-goers make informed decisions. Routinely mon
 
 <br></br>
 
-## 🛠️ "SAP Automation Tool"
+## 🛠️ SAP Automation Tool
 
 Developed for the Logistics team at Newmont’s Boddington Goldmine: The tool utilises SAP Scripting to batch process work order reports from the maintenance teams, reducing processing times from 15 mins to 1 min, and instances of human error by 99%.
 
@@ -57,7 +57,7 @@ Developed for the Logistics team at Newmont’s Boddington Goldmine: The tool ut
 
 <br></br>
 
-## 🕹️ "Codebreaker: Puzzle Game"
+## 🕹️ Codebreaker: Puzzle Game
 
 A classic mobile-friendly "guess the code" puzzle game, where the player attempts to break a randomly generated four-digit code - with new puzzles generated daily! Player stats are stored with SQLite and cookies. 
 
@@ -74,7 +74,7 @@ A classic mobile-friendly "guess the code" puzzle game, where the player attempt
 
 <br></br>
 
-## 🍄 ”Playing Super Mario Bros. with AI”
+## 🍄 Playing Super Mario Bros. with AI
 
 Trained a Reinforcement Learning (PPO) agent to play Super Mario Bros., comparing its performance against a Rule-Based Agent. It utilizes reinforcement learning algorithms vs. object detection to determine rule-based actions.
 
