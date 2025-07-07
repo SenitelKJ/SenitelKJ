@@ -2,7 +2,7 @@
 <br><br>
 
 
-<h4 align="center" style="font-size: 1.5em; background: linear-gradient(to top, #00a6f4, #51a2ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Hi there! This repository showcases a selection of projects I've developed, demonstrating my skills in full stack development, artificial intelligence, and my on-going learning process.
+<h4 align="center" style="font-size: 1.5em; background: linear-gradient(to top, #00a6f4, #51a2ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">This repository showcases a selection of solo projects I've developed, demonstrating my skills in full stack development, artificial intelligence, and my on-going learning process.
 </h4>
 
 <br></br>
